@@ -16,17 +16,17 @@
 },
   "Stellar_Trail": {
     "name": "Stellar_Trail.png",
-    "x": 3859,
-    "y": 943,
-    "width": 237,
-    "height": 22 
-},
-   "Anthem": {
-    "name": "Anthem.png",
     "x": 3660,
     "y": 1321,
     "width": 77,
     "height": 82 
+},
+   "Anthem": {
+    "name": "Anthem.png",
+    "x": 3613,
+    "y": 898,
+    "width": 134,
+    "height": 96 
 },  
    "mlprussia": {
     "name": "mlprussia.png",
