@@ -7,6 +7,13 @@
     "width": 80,
     "height": 61 
 },
+  "link": {
+    "name": "link.png",
+    "x": 3859,
+    "y": 943,
+    "width": 237,
+    "height": 22 
+},
    "Anthem": {
     "name": "Anthem.png",
     "x": 3613,
@@ -20,13 +27,5 @@
     "y": 1095,
     "width": 1024,
     "height": 723
-   },
-"Stellar_Trail": {
-    "name": "Stellar_Trail.png",
-    "x": 3660,
-    "y": 1321,
-    "width": 77,
-    "height": 82 
-},  
-
+   }
 }
