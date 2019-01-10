@@ -1,60 +1,11 @@
 
 {
-  "Pinkie_Pie": {
-    "name": "Pinkie_Pie.png",
-    "x": 3940,
-    "y": 881,
-    "width": 80,
-    "height": 61 
-},
-  "link": {
-    "name": "link.png",
-    "x": 3859,
-    "y": 943,
-    "width": 237,
-    "height": 22 
-},
-   "celestia": {
-    "name": "owMfv292R78.png.png",
-    "x": 3501,
+   "pzh": {
+    "name": "pzh.png",
+    "x": 3380,
     "y": 884,
-    "width": 112,
-    "height": 134 
-},
-  "lunatop": {
-    "name": "lunatop.png",
-    "x": 3747,
-    "y": 884,
-    "width": 112,
-    "height": 134 
-},
-   "starlight": {
-    "name": "starlight.png",
-    "x": 3383,
-    "y": 1003,
-    "width": 106,
-    "height": 104 
-},
-  "Stellar_Trail": {
-    "name": "Stellar_Trail.png",
-    "x": 3660,
-    "y": 1321,
-    "width": 77,
-    "height": 82 
-},
-  "CelespixelGrid": {
-    "name": "CelespixelGrid.png",
-    "x": 3875,
-    "y": 978,
-    "width": 205,
-    "height": 242 
-},
-   "Anthem": {
-    "name": "Anthem.png",
-    "x": 3613,
-    "y": 898,
-    "width": 134,
-    "height": 96 
+    "width": 826,
+    "height": 431 
 },  
    "mlprussia": {
     "name": "mlprussia.png",
