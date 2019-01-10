@@ -21,6 +21,20 @@
     "width": 112,
     "height": 134 
 },
+  "lunatop": {
+    "name": "lunatop.png",
+    "x": 3747,
+    "y": 884,
+    "width": 112,
+    "height": 134 
+},
+   "starlight": {
+    "name": "starlight.png",
+    "x": 3380,
+    "y": 1002,
+    "width": 106,
+    "height": 104 
+},
   "Stellar_Trail": {
     "name": "Stellar_Trail.png",
     "x": 3660,
