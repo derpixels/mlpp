@@ -42,6 +42,13 @@
     "width": 77,
     "height": 82 
 },
+  "CelespixelGrid": {
+    "name": "CelespixelGrid.png",
+    "x": 3874,
+    "y": 977,
+    "width": 205,
+    "height": 242 
+},
    "Anthem": {
     "name": "Anthem.png",
     "x": 3613,
