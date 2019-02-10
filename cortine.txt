@@ -1,0 +1,74 @@
+{
+"templates": [
+	{
+	"name": "[RUS]russia",
+	"src": "https://i.imgur.com/3JWhfon.png",
+	"x": -2224,
+	"y": 1111,
+	"highPriority": false
+	},
+	{
+	"name": "[RUS]discord link",
+	"src": "https://i.imgur.com/06R4buF.png",
+	"x": -2222,
+	"y": 1113,
+	"highPriority": false
+	},
+	{
+	"name": "[RUS]gerb",
+	"src": "https://i.imgur.com/i4SezgB.png",
+	"x": -1938,
+	"y": -1907,
+	"highPriority": false
+	},
+	{
+	"name": "[RUSMLP]Rffoe",
+	"src": "https://i.imgur.com/K6DCtlY.png",
+	"x": -2155,
+	"y": -2062,
+	"highPriority": true
+	},
+	{
+	"name": "[MLP]FOE",
+	"src": "https://i.imgur.com/lawpPOs.png",
+	"x": 2275,
+	"y": 1095,
+	"highPriority": false
+	},
+	{
+	"name": "[MLP]MLPP zone",
+	"src": "https://i.imgur.com/KTJzAeB.png",
+	"x": 3271,
+	"y": 883,
+	"highPriority": false
+	},
+	{
+	"name": "[MLP]oczone",
+	"src": "https://i.imgur.com/P3WJlJZ.png",
+	"x": 3300,
+	"y": 1095,
+	"highPriority": false
+	},
+	{
+	"name": "[MLP]hangout",
+	"src": "https://i.imgur.com/TQf0BQv.png",
+	"x": 2275,
+	"y": 821,
+	"highPriority": false
+	},
+	{
+	"name": "[MLP]free zone",
+	"src": "https://i.imgur.com/LQNRNhs.png",
+	"x": 3271,
+	"y": 212,
+	"highPriority": false
+	},
+	{
+	"name": "[MLP]popug",
+	"src": "https://i.imgur.com/e3lQHlJ.png",
+	"x": 1969,
+	"y": 1017,
+	"highPriority": false
+	}
+]
+}
